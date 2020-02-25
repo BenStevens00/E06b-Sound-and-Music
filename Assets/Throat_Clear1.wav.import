@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Throat_Clear1.wav-be5e74c4e4e947d2d6e98d9bd85456c4.sample"
+
+[deps]
+
+source_file="res://Assets/Throat_Clear1.wav"
+dest_files=[ "res://.import/Throat_Clear1.wav-be5e74c4e4e947d2d6e98d9bd85456c4.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

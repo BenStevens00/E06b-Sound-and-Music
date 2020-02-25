@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Tapping1.wav-91560f49b2550485102f96966c4d5485.sample"
+
+[deps]
+
+source_file="res://Assets/Tapping1.wav"
+dest_files=[ "res://.import/Tapping1.wav-91560f49b2550485102f96966c4d5485.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
